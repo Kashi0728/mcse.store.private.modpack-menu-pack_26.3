@@ -2,6 +2,13 @@
     "packs":  [
                   {
                       "id":  "assets",
+                      "name":  "Wilderness Bound (In Development)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "",
+                      "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-pack_26.3/themed_preview_images/wilderness-bound-panorama.png"
+                  },
+                  {
+                      "id":  "assets",
                       "name":  "Chaos Cubed",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse.store.private.modpack-menu-pack_26.3/themed_content/chaos-cubed-panorama.zip",
